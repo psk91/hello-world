@@ -1,2 +1,2 @@
 # hello-world
-First repository
+First repository for generally useful finance and actuarial code
