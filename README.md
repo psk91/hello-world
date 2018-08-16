@@ -1,2 +1,2 @@
-# hello-world
-First repository for generally useful finance and actuarial code
+# python-toolbox
+Repository of generally useful python projects for financial and actuarial analysis
